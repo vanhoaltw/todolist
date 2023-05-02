@@ -23,6 +23,10 @@ VITE_FIREBASE_APPID=
 VITE_FIREBASE_MEASUREMENTID=
 ```
 
+## Screenshots
+<img src="https://res.cloudinary.com/audio-life/image/upload/v1683041781/todolist-login_mgnwdb.png" alt="Login page" />
+<img src="https://res.cloudinary.com/audio-life/image/upload/v1683040148/todolist_hpahm0.png" alt="Home page" />
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
